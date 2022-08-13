@@ -1,0 +1,73 @@
+Website : Sekumpulan dari beberapa  halaman yang terkumpul dalam suatu alamat yang bisa di akses melalui internet yang umumnya berisikan tentang informasi
+HTML:  Hypertext Markup languenge merupakan bahasa markah standar untuk doku men yang di rancang untuk di tampilkan di peremban internet
+lebih singkat nya HTML adalah sebuah bahasa yang di rancang untk pembuatan website
+ analogi pemikiran
+HTML= Kerangka
+CSS= modifikasi
+php = untuk menejalakan
+js = fitur yang lebih
+databse = hal yang di bawaa
+
+tag tag html
+<head> kepala
+<title> teks judul
+<body> badan
+<h1> heading untuk memasukan teks
+<p> memberikan paragraf
+
+
+
+heading dan paaragraf
+heading atau <h..> bisa mencapai h6 
+untuk memperbesar
+<big><h1>.......</h1></big>
+untuk di jadiin tengah
+<center><h1>
+PARAGRAF 
+<P>...</p>
+teks berjalan
+<marquee>.....</marquee> 
+
+hyperlink
+menghubungkan html
+anchor = jngkar yang menghubungi 
+anchor terbagi 2 
+internal= halaman yang terhubungan dengan halaman yang berada di dlm file yang ada di dalam saja
+ -folder nya sama
+ -folder nya berbeda 
+
+eksternal= sebaliknya dengan bisa menuju ke halaman lain misalnya facebook atau gmail
+a herf = menghubungkan dengan halaman lain atau file lain
+a target = file yang akan di tuju engan membuka halaman yang baru- target="_blank">
+apabila ingin menambahkan dengan garis baru maka tambahkan <br>setelah </a>
+Website Dinamis : Web dinamis merupakan sebuah website yang memungkinkan penggunanya untuk berinteraksi secara langsung, dalam artian pengguna dapat menambah, memodifikasi, ataupun menghapus konten di dalam sebuah web tanpa harus membuka struktur kode dari web tersebut. Karena fungsi inilah, ngoding web dinamis menjadi lebih rumit daripada ngoding web statis.
+Website Statis : web statis adalah jenis website yang terdiri dari sejumlah halaman web yang telah dirender sebelumnya dengan memuat hardcoded, konten dan struktur  bersifat tetap. 
+		Hal ini membuat pengguna hanya akan melihat konten yang sama terlepas dari siapa mereka, dari mana asalnya, dan browser apa yang mereka gunakan
+framework : Perangkat kerja
+Forehand dan BackHand : Dari segi peranan, Front End Developer berperan mengembangkan tampilan situs dengan menggunakan bahasa pemrograman seperti CSS (Cascading Style Sheets), HTML (Hypertext Markup Language), dan Javascript. Sedangkan untuk Back End Developer bertugas memastikan bahwa sebuah situs dapat berfungsi dan diakses melalui monitoring "di balik layar".
+
+	Motivasi Itcyber : Harus belance dengan kegiatan organisasi.kita juga memerlukan pembelajaran
+Attitude Bertanya : 1. sesuai Konteks dan Logis 2. Hrus Brusaha Terlebih dahulu
+cara GOOGliNG : Harus mengetahui apa yang di mempermasalahkan, Inti dari trouble , Memakai Bahasa Inggris apabila masih kurang Pemahaman 
+
+Cara Cepat shift+1 Lalu tab
+setiap Penutup ada garis Miring
+Title : judul 
+body : Isi
+ OL : Angka
+ Ul : Simbol
+Header maksimal 6
+
+Tabel
+<tr>
+ <td>.....</td>
+ <td>.....</td>
+<tr>
+
+rowspan _ kebawah
+colspan_kesamping
+
+penerapan styling
+a. external style sheet (bikin di css)
+b. embedded style sheet (bikin di awal  style)
+c. inline style sheet (satu baris)
